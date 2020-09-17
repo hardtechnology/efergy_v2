@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For Keyboard
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+efergy	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+eflog	KEYWORD2
+milliswait	KEYWORD2
+setID	KEYWORD2
+getcharevent	KEYWORD2
+getjsonevent	KEYWORD2
+timesinceboot	KEYWORD2
+mainloop	KEYWORD2
+eventID	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
